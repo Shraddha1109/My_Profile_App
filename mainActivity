@@ -1,0 +1,38 @@
+<?xml version ="1.0" encoding ="utf=8"?>
+<!--suppress ALL -->
+<LinearLayout
+
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/tony_stark_small"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tony_stark"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textcolor="#222222"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shraddha11_gmail_com"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textcolor="#222222"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/_7098556456"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textcolor="#222222"/>
+</>
